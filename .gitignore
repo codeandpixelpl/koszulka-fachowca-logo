@@ -1,0 +1,6 @@
+# system
+.DS_Store
+*.log
+# narzędzia i pliki robocze
+_*
+docs/
